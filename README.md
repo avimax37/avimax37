@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avinaba Bera</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate fullstack developer from Kolkata</h3>
 
-- 🔭 I’m currently working on **TRIPEX - Social Media for Travellers**
+- 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **Data Structure and DBMS**
+- 🌱 I’m currently learning **Data Structure, DBMS and Web Development**
 
 - 🤝 I’m looking for help with **learning Python**
 
