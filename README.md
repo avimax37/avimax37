@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinaba Bera</h1>
 <h3 align="center">A passionate fullstack developer from Kolkata</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **a website**
 
 - 🌱 I’m currently learning **Data Structure, DBMS and Web Development**
 
